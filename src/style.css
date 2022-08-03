@@ -1,0 +1,69 @@
+h1 {
+    font-family: "Josefin Sans", sans-serif;
+    font-weight: bolder;
+    font-size: 3rem;
+    position: absolute;
+    top: 37%;
+}
+
+h2 {
+    font-family: "Josefin Sans", sans-serif;
+    font-size: 2rem;
+    position: absolute;
+    top: 43%;
+}
+
+img {
+    background-size: auto auto;
+}
+
+ul {
+    list-style: none;
+}
+
+.navbar {
+    position: absolute;
+    top: 5%;
+    color: #000;
+    font-weight: 600;
+    font-size: 1.2rem;
+    font-family: "Lato", sans-serif;
+}
+
+.navbar-text a {
+    font-family: "Lato", sans-serif;
+    font-size: 1.25rem;
+    color: #fff;
+    background-color: #000;
+    border: #000 2px solid;
+    padding: 0.5rem 0.75rem;
+    margin: 0.5rem;
+    position: absolute;
+    top: 5%;
+    text-decoration: none;
+}
+
+.navbar-text a:hover {
+    background-color: #fff;
+    color: #000;
+    border: #000 2px solid;
+}
+
+.hero a {
+    position: absolute;
+    top: 58%;
+    left: 7%;
+    font-family: "Lato", sans-serif;
+    font-size: 1.25rem;
+    background-color: #2962ff;
+    border: #2962ff 2px solid;
+    color: #fff;
+    padding: 0.5rem 0.75rem;
+    text-decoration: none;
+}
+
+.hero a:hover {
+    background-color: #fff;
+    color: #000;
+    border: #000 2px solid;
+}
