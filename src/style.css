@@ -67,3 +67,8 @@ ul {
     color: #000;
     border: #000 2px solid;
 }
+
+section .subjects {
+    background-color:#000;
+    font-family: "Josefin Sans", sans-serif;
+}
