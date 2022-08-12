@@ -72,3 +72,21 @@ section .subjects {
     background-color:#000;
     font-family: "Josefin Sans", sans-serif;
 }
+
+.heading {
+    background-color: #000;
+    font-size:2.5rem;
+    padding: 7rem 26rem;
+}
+
+button {
+    background-color: #2962ff;
+    color:#fff;
+    font-size:1.45rem;
+    border-radius:.25em;
+    padding: 0.5rem 0.75rem;
+    border:none;
+    position: absolute;
+    top: 95%;
+    right: 25%;
+}
