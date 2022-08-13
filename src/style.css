@@ -73,10 +73,23 @@ section .subjects {
     font-family: "Josefin Sans", sans-serif;
 }
 
-.heading {
+.usgovernmentheading {
     background-color: #000;
-    font-size:2.5rem;
-    padding: 7rem 26rem;
+    padding:5.5rem 33rem;
+    color:#fff;
+    margin:0;
+}
+
+.economicsheading{
+    background-color: #000;
+    padding: 5.5rem 34rem;
+    color: #fff;
+}
+
+.dualcreditheading {
+    background-color: #000;
+    padding:3.75rem 35rem;
+    color: #fff;
 }
 
 button {
