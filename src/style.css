@@ -1,3 +1,8 @@
+* {
+    margin:0;
+    padding:0;
+}
+
 h1 {
     font-family: "Josefin Sans", sans-serif;
     font-weight: bolder;
@@ -11,6 +16,15 @@ h2 {
     font-size: 2rem;
     position: absolute;
     top: 43%;
+}
+
+h3 {
+    font-family: 'Lato', sans-serif;
+    font-weight: bolder;
+}
+
+h5 {
+    font-weight: bold;
 }
 
 img {
@@ -73,9 +87,14 @@ section .subjects {
     font-family: "Josefin Sans", sans-serif;
 }
 
+section .accordion {
+    background-color: #fff;
+    color:#fff;
+}
+
 .usgovernmentheading {
     background-color: #000;
-    padding:5.5rem 33rem;
+    padding:5.5rem 34rem;
     color:#fff;
     margin:0;
 }
@@ -92,7 +111,7 @@ section .subjects {
     color: #fff;
 }
 
-button {
+.government-content {
     background-color: #2962ff;
     color:#fff;
     font-size:1.45rem;
@@ -103,3 +122,31 @@ button {
     top: 95%;
     right: 25%;
 }
+
+section {
+    background-color: #E4E4E6;
+}
+
+p {
+    font-family: "Lato", sans-serif;
+    font-weight: 700;
+    font-size:1.25rem;
+    color:#000;
+}
+
+.second-title{
+    margin-top:1rem;
+}
+
+.about-paragraph{
+    margin-top:20rem;
+}
+
+footer {
+    background-color: #000;
+    color: #fff;
+    text-align: center;
+}
+
+
+
